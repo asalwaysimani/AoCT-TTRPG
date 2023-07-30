@@ -1,0 +1,149 @@
+{
+	"Default Item Ore": {
+		"Item Name": "Test Item Alpha",
+		"Item Description": "",
+		"Craftable": true,
+		"Can Be Sold": true,
+		"Price": 1,
+		"Crafting Materials": { "Crafting Materials - Ore": "" },
+		"Refined Item": { "Crafting Materials - Bar": ""},
+		"Item Rarity": [0, 5, 10, 15, 20],
+		"Crafting Difficulty": [0, 5, 10, 15, 20],
+		"Item Image": ""
+	},
+	"Electrum Ore": {
+		"Item Name": "Electrum Ore",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Gold Ore": {
+		"Item Name": "Gold Ore",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Mythril Ore": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Silver Ore": {
+		"Item Name": "Silver Ore",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Cobalt Ore": {
+		"Item Name": "Cobalt",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Adamantite Ore": {
+		"Item Name": "Adamantite",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Platinum Ore": {
+		"Item Name": "Steel Bars",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Obsidian Shards": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "" }],
+		"Type": "Ore"
+	},
+	"Granite Block": {
+		"Item Name": "Granite Block",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Limestone Block": {
+		"Item Name": "Limestone Block",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Marble Blocks": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Iron Ore": {
+		"Item Name": "Iron Ore",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "Electrum Ore" }],
+		"Type": "Ore"
+	},
+	"Zinc Ore": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "" }],
+		"Type": "Ore"
+	},
+	"Titanium Ore": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "" }],
+		"Type": "Ore"
+	},
+	"Tin Ore": {
+		"Item Name": "",
+		"Item Description": "",
+		"Can Be Sold": true,
+		"Magical": false,
+		"Craftable": false,
+		"Crafting Materialss": [{ "Crafting Materials - Ore": "" }],
+		"Type": "Ore"
+	}	
+}

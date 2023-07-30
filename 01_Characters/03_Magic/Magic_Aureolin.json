@@ -1,0 +1,51 @@
+{
+	"Magic": {
+		"Spell Type": "Spell Type",
+		"Spell Type Description": "",
+        "Spells": {
+            "Spell Name" : "",
+            "Expression Type" : ["Cantrip","Ritual","Spell","Living Magic","Marked"],
+            "Spell Descritpion": ""
+        },
+        "Associated Job": "",
+        "Spell Level": [1, 2, 3, 4, 5],
+        "Upgradeable": true
+	},
+
+    "Aureolin": {
+		"Spell Type": "Spell Type",
+		"Spell Type Description": "",
+        "Spells": {
+            "Spell Name" : "",
+            "Expression Type" : "",
+            "Spell Descritpion": ""
+        },
+        "Associated Job": "",
+        "Spell Level": [1, 2, 3, 4, 5],
+        "Upgradeable": true
+	},
+    "Carnelian": {
+		"Spell Type": "Spell Type",
+		"Spell Type Description": "",
+        "Spells": {
+            "Spell Name" : "",
+            "Expression Type" : "",
+            "Spell Descritpion": ""
+        },
+        "Associated Job": "",
+        "Spell Level": [1, 2, 3, 4, 5],
+        "Upgradeable": true
+	},
+    "Kaltrina": {
+		"Spell Type": "Spell Type",
+		"Spell Type Description": "",
+        "Spells": {
+            "Spell Name" : "",
+            "Expression Type" : "",
+            "Spell Descritpion": ""
+        },
+        "Associated Job": "",
+        "Spell Level": [1, 2, 3, 4, 5],
+        "Upgradeable": true
+	}
+}

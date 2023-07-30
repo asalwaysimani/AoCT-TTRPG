@@ -1,0 +1,41 @@
+{
+    "Essences": {
+		"Essences Name": "Test Item Alpha",
+		"Essences Description": "",
+		"Craftable": true,
+		"Can Be Sold": true,
+		"Price": 1,
+		"Crafting Materials": { "Crafting Materials - Essences": "" },
+		"Essences Rarity": [0, 5, 10, 15, 20],
+		"Crafting Difficulty": [0, 5, 10, 15, 20],
+		"Essences Image": ""
+	},
+    "Fire Essences": {
+        "Essences Name": "Dark Essences",
+        "Essences Description": "",
+        "Can Be Sold": true,
+        "Magical": true,
+        "Craftable": false,
+        "Crafting Materialss": [{ "Crafting Materials - Essences": "" }],
+        "Type": "Essences"
+    },
+    "Ice Essences": {
+        "Essences Name": "Dark Essences",
+        "Essences Description": "",
+        "Can Be Sold": true,
+        "Magical": true,
+        "Craftable": false,
+        "Crafting Materialss": [{ "Crafting Materials - Essences": "" }],
+        "Type": "Essences"
+    },
+    "Dark Essences": {
+        "Essences Name": "Dark Essences",
+        "Essences Description": "",
+        "Can Be Sold": true,
+        "Magical": true,
+        "Craftable": false,
+        "Crafting Materialss": [{ "Crafting Materials - Essences": "" }],
+        "Type": "Essences"
+    }
+}
+

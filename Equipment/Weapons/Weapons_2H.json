@@ -1,0 +1,13 @@
+{
+    "Weapon Name": "",
+    "eapon  Classification": ["Attacker", "Support", "Tank", "Defender","Vanguard"],
+    "Job Description": "",
+    "Job Base Stats": {
+        "HP": 10,
+        "Physical Defense": 5,
+        "Physical Melee Attack": 5,
+        "Physical Ranged Attack": 5,
+        "Magical Defense": 5,
+        "Magical Attack": 5
+    }
+}

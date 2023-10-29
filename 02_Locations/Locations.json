@@ -1,0 +1,162 @@
+{
+    "Planets": {
+        "Location Name": "Ariakar",
+        "Location Type": "Planet",
+        "Location Overview": "Made up for 5 major land masses. One on each pole. The other 3 land masses on the planet are Aoede the largest land mass, Capricia, and Inbal which is in the south in-between Capricia and Aoede.",
+        "Continents": [
+            "Aoede",
+            "Capricia",
+            "Inbal",
+            "North Pole of Ariakar",
+            "South Pole of Ariakar"
+        ]
+    },
+    "Continent": {
+        "Location Name": "North Pole of Ariakar",
+        "Location Type": ,
+        "Location Overview": "Home to the Isle of Gods Grave",
+        "Points of Interest": [
+            "Isle of Gods Grave"
+        ]
+    },
+    "Kingdoms": {
+        "Location Name": "Krystallos",
+        "Location Type": "Kingdom",
+        "Location Overview": "One of the 8 Grand Kingdoms",
+        "Points of Interest": [
+            "The Crystal Tower"
+        ],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Grand Kingdom of Hedgeline",
+        "Location Type": "Kingdom",
+        "Location Overview": "One of the 8 Grand Kingdoms",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Kathlem",
+        "Location Type": "Kingdom",
+        "Location Overview": "One of the 8 Grand Kingdoms",
+        "Points of Interest": [
+            "High Garden"
+        ],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Hammanda",
+        "Location Type": "Kingdom",
+        "Location Overview": "One of the 8 Grand Kingdoms",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Boteria",
+        "Location Type": "Kingdom",
+        "Location Overview": "One of the 8 Grand Kingdoms",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Eumelia I",
+        "Location Type": "Orbital Station",
+        "Location Overview": "",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "Eumelia II",
+        "Location Type": "Orbital Station",
+        "Location Overview": "",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    "Points of Interest": {
+        "Location Name": "Isle of Gods Grave",
+        "Location Type": "",
+        "Location Overview": "The Isle of Gods Grave sits at the southmost end of the northern pole of Ariakar. Believed to currently host to the deeply sleeping 1st Gods under the watchful gaze of the New Gods.",
+        "Points of Interest": []
+    },
+    {
+        "Location Name": "The Crystal Tower",
+        "Location Type": "Constructed Landmark",
+        "Location Overview": {
+            "Location Age": ,
+            "Population": ,
+            "Biomes": ,
+        },
+        "Points of Interest": []
+    },
+    {
+        "Location Name": "",
+        "Location Type": "",
+        "Location Overview": "",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "",
+        "Location Type": "",
+        "Location Overview": "",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    },
+    {
+        "Location Name": "",
+        "Location Type": "",
+        "Location Overview": "",
+        "Points of Interest": [],
+        "Kingdom Statistics": "",
+        "Geographic Overview": "",
+        "Historical Overview": "",
+        "Historical Inhabitance": "",
+        "Modern Inhabitance": "",
+        "Key Facts": ""
+    }
+}

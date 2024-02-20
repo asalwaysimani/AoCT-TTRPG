@@ -1,6 +1,6 @@
 {
     "Weapon Name": "",
-    "eapon  Classification": ["Attacker", "Support", "Tank", "Defender","Vanguard"],
+    "Weapon  Classification": ["Attacker", "Support", "Tank", "Defender","Vanguard"],
     "Job Description": "",
     "Job Base Stats": {
         "HP": 10,
